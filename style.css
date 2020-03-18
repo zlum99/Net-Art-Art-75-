@@ -29,6 +29,12 @@ body {
     font-family: 'Space Mono', monospace;
   }
 
+  img {
+    width: 500px;
+    height: 650px;
+    object-fit: contain;
+  }
+
   .footer {
     position: fixed;
     left: 0;
